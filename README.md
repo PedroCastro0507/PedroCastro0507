@@ -1,31 +1,30 @@
-<h1 align="center">Pedro Henrique Serrato de Castro</h1>
+<h1 align="center">Pedro Castro</h1>
 
-<p align="center"><b>DevOps / SRE</b> · Curitiba, Paraná, Brasil</p>
+<p align="center"><b>DevOps / SRE</b> · Curitiba, Brazil</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-henrique-serrato-de-castro/"><img src="https://img.shields.io/badge/LinkedIn-pedro--henrique--serrato--de--castro-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://pedrocastro0507.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-pedrocastro0507.github.io-222?logo=githubpages&logoColor=white" alt="Portfólio"></a>
 </p>
 
 ```bash
 $ whoami
-pedro — DevOps / SRE, atuação independente (PJ)
+pedro — DevOps / SRE, independent contractor
 
-$ cat foco.txt
-confiabilidade · automação · escalabilidade · infraestrutura como código
+$ cat focus.txt
+reliability · automation · scalability · infrastructure as code
 ```
 
-Engenheiro DevOps focado em confiabilidade, automação e escalabilidade de sistemas. Trabalho com Infraestrutura como Código, pipelines CI/CD, Kubernetes e observabilidade, em ambientes de nuvem e on-premises. Atuo hoje de forma independente (PJ), em projetos sob confidencialidade, e estou ampliando a base DevOps para MLOps e plataformas de IA.
+DevOps engineer focused on the reliability, automation and scalability of systems. I work with Infrastructure as Code, CI/CD pipelines, Kubernetes and observability across cloud and on-premises environments. I currently work independently on confidential projects, and I am extending my DevOps foundation towards MLOps and AI platforms.
 
 ---
 
-## O que eu faço
+## What I do
 
-- **Kubernetes e GitOps:** clusters K8s/RKE2 (migração de K3s), Rancher, ArgoCD, tuning de memória e gerenciamento de Secrets.
-- **CI/CD:** pipelines com Jenkins, GitHub Actions, Azure Pipelines, Nexus, GitHub e Bitbucket.
-- **Infraestrutura como Código e automação:** Terraform, Ansible, Bash e Python.
-- **Observabilidade:** Prometheus, Grafana, Graylog, Datadog e CloudWatch.
-- **Ambientes híbridos:** AWS e on-premises (VMware, Proxmox, HAProxy, Nginx, Ingress-Nginx).
+- **Kubernetes and GitOps:** K8s/RKE2 clusters (K3s migration), Rancher, ArgoCD, memory tuning and Secrets management.
+- **CI/CD:** pipelines with Jenkins, GitHub Actions, Azure Pipelines, Nexus, GitHub and Bitbucket.
+- **Infrastructure as Code and automation:** Terraform, Ansible, Bash and Python.
+- **Observability:** Prometheus, Grafana, Graylog, Datadog and CloudWatch.
+- **Hybrid environments:** AWS and on-premises (VMware, Proxmox, HAProxy, Nginx, Ingress-Nginx).
 
 ## Stack
 
@@ -47,26 +46,26 @@ Engenheiro DevOps focado em confiabilidade, automação e escalabilidade de sist
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 
-## Estatísticas
+## Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroCastro0507&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCastro0507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroCastro0507&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCastro0507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroCastro0507&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Sequência de contribuições">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroCastro0507&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Contribution streak">
 </p>
 
-## Certificações
+## Certifications
 
 - Oracle Cloud Infrastructure Foundations Associate (2025)
 - Datadog Fundamentals
 
-## Em construção
+## Work in progress
 
-Estou publicando aqui projetos de DevOps que reproduzem, de forma aberta e sem dados de clientes, o que faço no dia a dia: módulos Terraform com CI no GitHub Actions, GitOps com ArgoCD e dashboards de observabilidade. Acompanhe os repositórios.
+I am publishing DevOps projects here that openly reproduce, without any client data, what I do day to day: Terraform modules with CI on GitHub Actions, GitOps with ArgoCD and observability dashboards. Follow the repositories.
 
 ---
 
-<sub>Aberto a conversar sobre DevOps, SRE e plataformas de IA.</sub>
+<sub>Open to talk about DevOps, SRE and AI platforms.</sub>
